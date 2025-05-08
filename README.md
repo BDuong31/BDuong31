@@ -6,7 +6,7 @@
 
 ## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://gist.github.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1#file-about-me-gif" width = 50px></picture> **About me**
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Vu+Thai+Binh+Duong..&hearts;++;Self-taught+BackEnd+Developer,;I'm+from+Vietnam,;Information+Technology+Student+At+The+Vietnam+Aviation+Academy,;CTF+Newbie,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Vu+Thai+Binh+Duong..&hearts;++;Self-taught+BackEnd+Developer,;I'm+from+Vietnam,; +Information+Technology+Student+At+The+Vietnam+Aviation+Academy,;CTF+Newbie,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <br>
 <hr>
